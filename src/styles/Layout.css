@@ -1,0 +1,5 @@
+.lmj-layout-inner {
+  display: flex;
+  flex-direction: row;
+  border-bottom: solid 3px black;
+}

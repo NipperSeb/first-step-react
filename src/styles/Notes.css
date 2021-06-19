@@ -1,0 +1,12 @@
+.lmj-api-title {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+li {
+  margin: 5px;
+  display: flex;
+  flex-direction: row;
+  text-transform: capitalize;
+  color: blueviolet;
+}
